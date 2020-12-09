@@ -1,0 +1,24 @@
+{
+  "name": "miniprojekt",
+  "version": "1.0.0",
+  "description": "miniprojekt-aplikacje-klienckie",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuicySzejek/MiniProjekt.git"
+  },
+  "author": "Jakub Szwej",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuicySzejek/MiniProjekt/issues"
+  },
+  "homepage": "https://github.com/JuicySzejek/MiniProjekt#readme"
+}
